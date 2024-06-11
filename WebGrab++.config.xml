@@ -11,6 +11,7 @@
   <update>incremental</update>
   <skip>12,5</skip>
   <channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="hbo">HBO</channel>
+  <channel id="AMC.br"><display-name>AMC Brasil</display-name></channel>
   <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="hbo_2">HBO 2</channel>
   <channel update="i" site="meuguia.tv" site_id="HFA" xmltv_id="hbo_family">HBO Family</channel>
   <channel update="i" site="meuguia.tv" site_id="HPL" xmltv_id="hbo_plus">HBO Plus</channel>
