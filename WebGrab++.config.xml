@@ -1,0 +1,18 @@
+﻿<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <filename>..\..\output\braz.xml</filename>
+  <mode />
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59</user-agent>
+  <decryptkey site="site-name">decrypt_userkey</decryptkey>
+  <license wg-username="souza-bot" registered-email="joghub80@gmail.com" password="Souzagi2015.">f</license>
+  <logging>on</logging>
+  <retry channel-delay="0" index-delay="0" show-delay="0" time-out="10">4</retry>
+  <timespan>0</timespan>
+  <update>incremental</update>
+  <skip>12,5</skip>
+  <channel update="i" site="meuguia.tv" site_id="HBO" xmltv_id="hbo">HBO</channel>
+  <channel update="i" site="meuguia.tv" site_id="HB2" xmltv_id="hbo_2">HBO 2</channel>
+  <channel update="i" site="meuguia.tv" site_id="HFA" xmltv_id="hbo_family">HBO Family</channel>
+  <channel update="i" site="meuguia.tv" site_id="HPL" xmltv_id="hbo_plus">HBO Plus</channel>
+  <channel update="i" site="meuguia.tv" site_id="HFE" xmltv_id="hbo_signature">HBO Signature</channel>
+</settings>
